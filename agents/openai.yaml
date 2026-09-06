@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Model Routing"
+  short_description: "Select the right model and reasoning effort"
+  default_prompt: "Use $codex-model-routing to select the best model and reasoning effort for this Codex Desktop task."
